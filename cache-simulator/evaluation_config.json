@@ -1,0 +1,9 @@
+{
+    "parallel_processes" : 4,
+    "configs_dir": "../wip/cache_configs",
+    "shared_lock_file": "../wip/shared_lock",
+    "results_dir": "../wip/results/",
+    "graphs_dir": "../wip/graphs/",
+    "failed_dir": "../wip/cache_failed/",
+    "wip_dir": "../wip/"
+}
